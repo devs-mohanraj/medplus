@@ -4,11 +4,10 @@ MedPlus is an intelligent chat interface that provides accurate, reliable inform
 
 ## Features
 
-- Modern, user-friendly chat interface built with Streamlit
+- user-friendly chat interface built with Streamlit
 - AI-powered responses based on reliable diabetes care documentation
-- Real-time question answering system
-- Context-aware responses using document retrieval
-- Clean and intuitive user experience
+- Context-aware responses 
+- intuitive user experience
 
 ## Technical Stack
 
@@ -74,13 +73,6 @@ streamlit run streamlit_app.py
 ```
 
 2. Open your browser and navigate to `http://localhost:8501`
-
-## Usage
-
-1. The chat interface will appear in your browser
-2. Type your diabetes-related question in the input box
-3. Press Enter or click the send button
-4. The AI assistant will provide a relevant response based on the medical documentation
 
 ## Security Note
 
