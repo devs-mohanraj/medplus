@@ -22,16 +22,16 @@ MedPlus is an intelligent chat interface that provides accurate, reliable inform
 
 ```
 medplus/
-├── streamlit_app.py      # Main Streamlit application
-├── interface.py          # Query processing interface
-├── build_chain.py        # LangChain configuration
-├── load_data.py         # Data loading utilities
-├── retriever.py         # Document retrieval logic
-├── text_splitter.py     # Text processing utilities
-├── vector_store.py      # Vector database management
-├── requirements.txt     # Project dependencies
-└── data/               # Source documents
-    └── diabetes.pdf    # Diabetes care documentation
+├── streamlit_app.py      
+├── interface.py          
+├── build_chain.py      
+├── load_data.py         
+├── retriever.py      
+├── text_splitter.py     
+├── vector_store.py      
+├── requirements.txt     
+└── data/              
+    └── diabetes.pdf    
 ```
 
 ## Getting Started
