@@ -6,7 +6,7 @@ import requests
 import os
 import json
 
-api_key = "tgp_v1_KaO9EBU9JQfxzREyDw2wBGLlEE_Yt8AaSfvNDU3-A-0"
+api_key = os.getenv("API_KEY")
 if not api_key:
     raise ValueError("API_KEY environment variable is not set. Please set it with your Together AI API key.")
 
