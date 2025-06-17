@@ -88,5 +88,5 @@ This application is for informational purposes only. Always consult healthcare p
 
 ## License
 
-[Insert your chosen license here]
+this project is open-source under **MIT License*
 
